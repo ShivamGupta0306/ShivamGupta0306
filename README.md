@@ -1,3 +1,5 @@
+![logo](https://github.com/ShivamGupta0306/ShivamGupta0306/blob/main/github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
