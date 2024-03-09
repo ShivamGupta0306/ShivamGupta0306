@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamgupta0306&label=Profile%20views&color=0e75b6&style=flat" alt="shivamgupta0306" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamgupta0306" alt="shivamgupta0306" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shivamg86041" target="blank"><img src="https://img.shields.io/twitter/follow/shivamg86041?logo=twitter&style=for-the-badge" alt="shivamg86041" /></a> </p>
 
 - 🌱 I’m currently learning **Mern Stack**
